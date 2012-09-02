@@ -7,7 +7,6 @@ tags: []
 ---
 {% include JB/setup %}
 
-{{page.title}}
----------------
+This my test blog, let's see how it looks like.
 
-This my test blog, let's see how it looks like
+Going to use it as my major English blog...

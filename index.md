@@ -5,6 +5,8 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
+Wow, real fun!
+
 This is my English blog(<a href="http://2maomao.com/blog/">Chinese blog</a>).
 
 Recent Posts:
