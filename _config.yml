@@ -113,3 +113,6 @@ JB :
   
 
 theme: jekyll-theme-slate
+
+mermaid:
+  src: 'https://cdn.rawgit.com/knsv/mermaid/6.0.0/dist/mermaid.js'
