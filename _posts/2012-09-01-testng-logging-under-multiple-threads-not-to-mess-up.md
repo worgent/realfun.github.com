@@ -44,4 +44,12 @@ Detail setup, refer to files in this project:
          java -Doutputdir=. org.testng.TestNG -reporter com.fayaa.logging.GroupedLoggingAppender
     * if you use maven-surefire, set listner(yes, not reporter) and system properties similar to pom.xml in this project
 
+```
+graph LR
+Hue-->hiveserver2
+Beeline-->hiveserver2
+Ambari-->hiveserver2
+other-->hiveserver2
+```
+
 
